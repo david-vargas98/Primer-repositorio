@@ -5,7 +5,7 @@ int main()
     string nombre;
     size_t edad;
 
-    cout << "Hola mundo" << endl;
+    //cout << "Hola mundo" << endl;
     cout << "Nombre: ";
     getline(cin, nombre);
     cout << "Hola " << nombre << "!" << endl;
